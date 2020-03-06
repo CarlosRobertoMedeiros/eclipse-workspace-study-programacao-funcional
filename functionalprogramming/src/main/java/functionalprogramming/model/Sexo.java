@@ -2,5 +2,6 @@ package functionalprogramming.model;
 
 public enum Sexo {
 	MASCULINO,
-	FEMININO
+	FEMININO,
+	NAOINFORMADO
 }
